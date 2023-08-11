@@ -2,7 +2,7 @@
 
 # Random Quote Generator
 
-![Project Preview](demo.png)
+![Project Preview](images/demo.png)
 
 A simple web application that generates random quotes and displays them along with the author's name. Built using HTML, CSS, and JavaScript.
 
